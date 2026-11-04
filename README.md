@@ -8,7 +8,7 @@
   Welcome to my little corner of GitHub!
 </p><p align="center">
   I'm currently learning cybersecurity and exploring different areas of IT. I'm still a beginner, but I enjoy learning new things, experimenting with tools, solving problems, and understanding how things work behind the scenes.
-</p>---
+</p>
 
 <h2 align="center">🔍 What I'm Learning</h2><p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,github" alt="Technology icons"/>
