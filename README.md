@@ -1,6 +1,10 @@
-Hey there! 👋
+👋 Hey there!
 
-Welcome to my little corner of GitHub!
+<p align="center">
+  <img src="images/profile.png" width="150" height="150" alt="Cybersecurity Fox Avatar"/>
+</p><p align="center">
+  <strong>Aspiring Cybersecurity Enthusiast | Linux Explorer | Lifelong Learner</strong>
+</p>Welcome to my little corner of GitHub!
 
 I'm currently learning cybersecurity and exploring different areas of IT. I'm still a beginner, but I enjoy learning new things, experimenting with tools, solving problems, and understanding how things work behind the scenes.
 
@@ -8,13 +12,16 @@ I'm currently learning cybersecurity and exploring different areas of IT. I'm st
 
 🔍 What I'm Learning
 
-- 🐧 Linux and Kali Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,github" alt="Technology icons"/>
+</p>- 🐧 Linux and Kali Linux
 - 🌐 Networking Fundamentals
 - 📡 Wireshark and Packet Analysis
 - 🦠 Malware Traffic Analysis
 - 🔎 Nmap and Network Scanning
 - 🔐 Cybersecurity Fundamentals
 - 📱 Kali NetHunter and Mobile Security
+- ⚡ StrykerOSS and Android Security
 
 ---
 
@@ -27,6 +34,7 @@ This is where I document my learning journey and keep track of the things I expl
 - Tool exploration and experiments
 - Screenshots and investigation results
 - Commands, observations, and findings
+- Troubleshooting and solutions
 - Lessons learned from each practice
 
 Some experiments might work, others might not. Either way, there's always something to learn.
@@ -43,10 +51,12 @@ I'm taking things one step at a time, learning through practice, and building my
 
 💭 A Little Reminder
 
-«You don't have to know everything to get started. You just have to be willing to learn.»
+<p align="center">
+  <i>"You don't have to know everything to get started. You just have to be willing to learn."</i>
+</p><p align="center">
+  **Still learning, still exploring, and always curious.** 🚀
+</p>---
 
-Still learning, still exploring, and always curious. 🚀
-
----
-
-<sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
+<p align="center">
+  <sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
+</p>
