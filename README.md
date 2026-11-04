@@ -1,24 +1,52 @@
 Hey there! 👋
 
-I'm currently learning cybersecurity and exploring different areas of IT. I'm still a beginner, but I enjoy learning new things, experimenting, solving problems, and understanding how things work behind the scenes.
+Welcome to my little corner of GitHub!
 
-What I'm Learning
+I'm currently learning cybersecurity and exploring different areas of IT. I'm still a beginner, but I enjoy learning new things, experimenting with tools, solving problems, and understanding how things work behind the scenes.
 
-- Linux and Kali Linux
-- Networking fundamentals
-- Wireshark and packet analysis
-- Malware traffic analysis
-- Nmap and network scanning
-- Basic cybersecurity concepts
+---
 
-What You'll Find Here
+🔍 What I'm Learning
 
-This is where I keep track of my learning journey. I'll be sharing my lab exercises, notes, screenshots, investigations, and things I've learned along the way.
+- 🐧 Linux and Kali Linux
+- 🌐 Networking Fundamentals
+- 📡 Wireshark and Packet Analysis
+- 🦠 Malware Traffic Analysis
+- 🔎 Nmap and Network Scanning
+- 🔐 Cybersecurity Fundamentals
+- 📱 Kali NetHunter and Mobile Security
 
-Not everything will be perfect, but every exercise is a chance to learn something new and improve.
+---
 
-My Goal
+🧪 What You'll Find Here
 
-To keep learning, gain practical experience, and hopefully turn this interest into a career in cybersecurity someday.
+This is where I document my learning journey and keep track of the things I explore along the way.
+
+- Hands-on cybersecurity exercises
+- Lab notes and documentation
+- Tool exploration and experiments
+- Screenshots and investigation results
+- Commands, observations, and findings
+- Lessons learned from each practice
+
+Some experiments might work, others might not. Either way, there's always something to learn.
+
+---
+
+🎯 My Goal
+
+To keep improving my technical skills, gain hands-on experience, and hopefully turn my interest in technology and cybersecurity into a career someday.
+
+I'm taking things one step at a time, learning through practice, and building my knowledge along the way.
+
+---
+
+💭 A Little Reminder
+
+«You don't have to know everything to get started. You just have to be willing to learn.»
 
 Still learning, still exploring, and always curious. 🚀
+
+---
+
+<sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
