@@ -1,7 +1,7 @@
 👋 Hey there!
 
 <p align="center">
-  <img src="images/profile.png" width="150" height="150" alt="Cybersecurity Fox Avatar"/>
+  <img src="images/profile.jpg" width="150" height="150" alt="Profile"/>
 </p><p align="center">
   <strong>Aspiring Cybersecurity Enthusiast | Linux Explorer | Lifelong Learner</strong>
 </p>Welcome to my little corner of GitHub!
