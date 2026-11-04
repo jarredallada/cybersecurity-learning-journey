@@ -1,4 +1,4 @@
-👋 Hey there!
+<p align="center"> 👋 Hey there! </p>
 
 <p align="center">
   <img src="images/profile.png" width="150" height="150" alt="Profile"/>
@@ -21,7 +21,6 @@
 - 📱 Kali NetHunter and Mobile Security
 - ⚡ StrykerOSS and Android Security
 
----
 
 <h2 align="center">🧪 What You'll Find Here</h2><p align="center">
   This is where I document my learning journey and keep track of the things I explore along the way.
@@ -35,19 +34,19 @@
 
 <p align="center">
   Some experiments might work, others might not. Either way, there's always something to learn.
-</p>---
+</p>
 
 <h2 align="center">🎯 My Goal</h2><p align="center">
   To keep improving my technical skills, gain hands-on experience, and hopefully turn my interest in technology and cybersecurity into a career someday.
 </p><p align="center">
   I'm taking things one step at a time, learning through practice, and building my knowledge along the way.
-</p>---
+</p>
 
 <h2 align="center">💭 A Little Reminder</h2><p align="center">
   <i>"You don't have to know everything to get started. You just have to be willing to learn."</i>
 </p><p align="center">
   <strong>Still learning, still exploring, and always curious. 🚀</strong>
-</p>---
+</p>
 
 <p align="center">
   <sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
