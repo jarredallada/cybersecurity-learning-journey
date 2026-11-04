@@ -12,7 +12,9 @@
 
 <h2 align="center">🔍 What I'm Learning</h2><p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,github" alt="Technology icons"/>
-</p>- 🐧 Linux and Kali Linux
+</p>
+
+- 🐧 Linux and Kali Linux
 - 🌐 Networking Fundamentals
 - 📡 Wireshark and Packet Analysis
 - 🦠 Malware Traffic Analysis
