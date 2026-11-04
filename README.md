@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="images/profile.jpg"
+    src="images/profile.png"
     width="150"
     height="150"
     alt="Profile"
