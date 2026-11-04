@@ -26,7 +26,8 @@
 
 <h2 align="center">🧪 What You'll Find Here</h2><p align="center">
   This is where I document my learning journey and keep track of the things I explore along the way.
-</p>- Hands-on cybersecurity exercises
+</p>
+- Hands-on cybersecurity exercises
 - Lab notes and documentation
 - Tool exploration and experiments
 - Screenshots and investigation results
