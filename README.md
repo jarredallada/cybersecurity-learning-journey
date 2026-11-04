@@ -1,8 +1,14 @@
 👋 Hey there!
 
 <p align="center">
-  <img src="images/profile.jpg" width="150" height="150" alt="Profile"/>
-</p><p align="center">
+  <img
+    src="images/profile.jpg"
+    width="150"
+    height="150"
+    alt="Profile"
+    style="border-radius: 50%; object-fit: cover;"
+  />
+</p>
   <strong>Aspiring Cybersecurity Enthusiast | Linux Explorer | Lifelong Learner</strong>
 </p>Welcome to my little corner of GitHub!
 
