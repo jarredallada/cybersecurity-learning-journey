@@ -1,4 +1,4 @@
-👋 Hey there!
+<p align="center">👋 Hey there!</p>
 
 <p align="center">
   <img
@@ -20,7 +20,9 @@ I'm currently learning cybersecurity and exploring different areas of IT. I'm st
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,github" alt="Technology icons"/>
-</p>- 🐧 Linux and Kali Linux
+</p> 
+
+-🐧 Linux and Kali Linux
 - 🌐 Networking Fundamentals
 - 📡 Wireshark and Packet Analysis
 - 🦠 Malware Traffic Analysis
