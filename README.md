@@ -60,9 +60,7 @@
     <td>• Lessons Learned</td>
     <td>Important takeaways and knowledge gained from each learning experience.</td>
   </tr>
-</table><p>
-  Some experiments might work, others might not. Either way, there's always something to learn.
-</p>
+</table>
 
 <p>
   Some experiments might work, others might not. Either way, there's always something to learn.
