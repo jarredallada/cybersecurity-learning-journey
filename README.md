@@ -76,7 +76,7 @@
   I'm taking things one step at a time, learning through practice, and building my knowledge along the way.
 </p>
 
-<h2>💭 A Little Reminder</h2><p>
+<h2>📌 A Little Reminder</h2><p>
   <i>"You don't have to know everything to get started. You just have to be willing to learn."</i>
 </p>
 <p>
@@ -101,5 +101,5 @@
 </p>
 
 <p align="center">
-  <sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
+  <sub>This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
 </p>
