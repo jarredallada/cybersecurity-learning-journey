@@ -1,12 +1,11 @@
-📱 Kali NetHunter Installation Guide
-
 <p align="center">
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="120" alt="Kali Linux Logo"/>
 </p><p align="center">
   <strong>Installing Kali NetHunter on Android Devices</strong>
 </p><p align="center">
   A step-by-step reference for setting up Kali NetHunter on rooted and non-rooted Android devices.
-</p>---
+</p>
+---
 
 <h2 align="center">📋 Requirements</h2>
 
