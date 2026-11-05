@@ -13,14 +13,10 @@
 🔍 What I'm Learning
 
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Linux%20%26%20Kali-333333?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white"/><img src="https://img.shields.io/badge/Networking%20Fundamentals-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Packet%20Analysis-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Malware-555555?style=flat-square&logo=virustotal&logoColor=white"/><img src="https://img.shields.io/badge/Malware%20Traffic%20Analysis-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/><img src="https://img.shields.io/badge/Network%20Scanning-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-222222?style=flat-square"/><img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/NetHunter-557C94?style=flat-square&logo=kalilinux&logoColor=white"/><img src="https://img.shields.io/badge/Mobile%20Security-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/StrykerOSS%20%26%20Android-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Linux%20%26%20Kali-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white"/><img src="https://img.shields.io/badge/Networking%20Fundamentals-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Packet%20Analysis-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/><img src="https://img.shields.io/badge/Network%20Scanning-333333?style=flat-square"/>
 </p>
 
 <h2 align="center">🧪 What You'll Find Here</h2><p align="center">
