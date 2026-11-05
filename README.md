@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/StrykerOSS%20%26%20Android-333333?style=flat-square"/>  
 </p>
 
-🧪 What You'll Find Here
+<h2>🧪 What You'll Find Here</h2>
 
 <p>
   This is where I document my learning journey and keep track of the things I explore along the way.
