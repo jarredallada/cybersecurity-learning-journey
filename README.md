@@ -82,7 +82,7 @@
   <i>"You don't have to know everything to get started. You just have to be willing to learn."</i>
 </p>
 <p>
-  <strong>Still learning, still exploring, and always curious. 🚀</strong>
+  <strong>Still learning, still exploring, and always curious.</strong>
 </p>
 
 <h2 align="center">Connect With Me</h2>
