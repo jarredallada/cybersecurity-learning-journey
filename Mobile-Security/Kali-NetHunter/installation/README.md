@@ -48,13 +48,38 @@ Available Kali NetHunter packages:
 
 ---
 
-<h3>📱 Non-Rooted Devices</h3>Requirements| Description
-Android Device| An Android smartphone without root access.
-Internet Connection| Wi-Fi or mobile data connection for downloading and installing Kali NetHunter.
-Storage| At least 3–5 GB of available storage is recommended. Additional storage may be needed for tools and packages.
-Termux| A terminal emulator that provides a Linux-like command-line environment on Android. It is used to download, install, and launch the Kali NetHunter Rootless environment.
-Kali NetHunter Store| The official application store for Kali NetHunter, providing access to NetHunter-related applications and utilities.
-NetHunter KeX Client| An application that allows you to access the Kali Linux graphical desktop environment through your Android device.
+📱 Non-Rooted Devices
+
+<table>
+  <tr>
+    <th>Requirements</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Android Device</td>
+    <td>An Android smartphone without root access.</td>
+  </tr>
+  <tr>
+    <td>Internet Connection</td>
+    <td>Wi-Fi or mobile data connection for downloading and installing the required applications and packages.</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>At least 3–5 GB of available storage is recommended. Additional space may be needed for tools and packages.</td>
+  </tr>
+  <tr>
+    <td>Termux</td>
+    <td>A terminal emulator that provides a Linux-like command-line environment on Android. Used to download, install, and launch Kali NetHunter Rootless.</td>
+  </tr>
+  <tr>
+    <td>Kali NetHunter Store</td>
+    <td>The official application store for Kali NetHunter, providing access to NetHunter applications and utilities.</td>
+  </tr>
+  <tr>
+    <td>NetHunter KeX Client</td>
+    <td>An application that allows users to access the Kali Linux graphical desktop environment on Android.</td>
+  </tr>
+</table>
 
 Required downloads:
 
