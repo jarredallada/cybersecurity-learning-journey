@@ -1,5 +1,3 @@
-🐉 Kali NetHunter
-
 <p align="center">
   <i>«Exploring the world of mobile cybersecurity, one command at a time.»</i>
 </p><p align="center">
