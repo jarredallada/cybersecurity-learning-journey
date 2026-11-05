@@ -27,21 +27,13 @@
 </p>
 
 <table>
-  <tr>
-    <td>🔹 Hands-on cybersecurity exercises</td>
-    <td>🔹 Lab notes and documentation</td>
-  </tr>
-  <tr>
-    <td>🔹 Tool exploration and experiments</td>
-    <td>🔹 Screenshots and investigation results</td>
-  </tr>
-  <tr>
-    <td>🔹 Commands, observations, and findings</td>
-    <td>🔹 Troubleshooting and solutions</td>
-  </tr>
-  <tr>
-    <td>🔹 Lessons learned from each practice</td>
-  </tr>
+<td>🔹 Hands-on cybersecurity exercises</td>
+<td>🔹 Lab notes and documentation</td>
+<td>🔹 Tool exploration and experiments</td>
+<td>🔹 Screenshots and investigation results</td>
+<td>🔹 Commands, observations, and findings</td>
+<td>🔹 Troubleshooting and solutions</td>
+<td>🔹 Lessons learned from each practice</td>
 </table>
 
 <p>
