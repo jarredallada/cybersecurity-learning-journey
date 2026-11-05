@@ -10,7 +10,7 @@
   I'm currently learning cybersecurity and exploring different areas of IT. I'm still a beginner, but I enjoy learning new things, experimenting with tools, solving problems, and understanding how things work behind the scenes.
 </p>
 
-<h2>🔍 What I'm Learning</h2>
+🔍 What I'm Learning
 
 
 <p align="center">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/StrykerOSS%20%26%20Android-333333?style=flat-square"/>
 </p>
 
-<h2> 🧪 What You'll Find Here </h2>
+🧪 What You'll Find Here
   This is where I document my learning journey and keep track of the things I explore along the way.
 </p>- Hands-on cybersecurity exercises
 - Lab notes and documentation
@@ -34,22 +34,22 @@
 - Troubleshooting and solutions
 - Lessons learned from each practice
 
-<p align="center">
+
   Some experiments might work, others might not. Either way, there's always something to learn.
-</p>
 
-<h2>🎯 My Goal</h2>
+
+🎯 My Goal
   To keep improving my technical skills, gain hands-on experience, and hopefully turn my interest in technology and cybersecurity into a career someday.
-</p><p align="center">
+
   I'm taking things one step at a time, learning through practice, and building my knowledge along the way.
-</p>
 
-<h2>💭 A Little Reminder</h2>
+
+💭 A Little Reminder
   <i>"You don't have to know everything to get started. You just have to be willing to learn."</i>
-</p><p align="center">
-  <strong>Still learning, still exploring, and always curious. 🚀</strong>
-</p>
 
-<p align="center">
+  <strong>Still learning, still exploring, and always curious. 🚀</strong>
+
+
+<p align="center>
   <sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
 </p>
