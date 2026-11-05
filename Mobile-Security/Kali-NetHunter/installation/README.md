@@ -33,15 +33,25 @@
     <td>Latest compatible version of Magisk for managing root access.</td>
   </tr>
   <tr>
-    <td>Kali NetHunter Files</td>
-    <td>Compatible NetHunter installation ZIP package for your device architecture.</td>
-  </tr>
-</table>
+    <tr>
+  <td>Kali NetHunter Files</td>
+  <td>
+    Compatible NetHunter installation ZIP package for your device architecture.
 
-Available Kali NetHunter packages:
-
-- "kali-nethunter-20YY.X-generic-arm64-kalifs-full.zip"
-- "kali-nethunter-20YY.X-generic-arm64-kalifs-minimal.zip"
+    <ul>
+      <li>
+        <a href="YOUR_FULL_ZIP_URL" target="_blank">
+          Full Version
+        </a>
+      </li>
+      <li>
+        <a href="YOUR_MINIMAL_ZIP_URL" target="_blank">
+          Minimal Version
+        </a>
+      </li>
+    </ul>
+  </td>
+</tr>
 
 <sub>Note: Replace 20YY.X with the actual release version. Make sure the package matches your device architecture and installation requirements.</sub>
 
