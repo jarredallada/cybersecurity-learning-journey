@@ -23,33 +23,46 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/StrykerOSS%20%26%20Android-333333?style=flat-square"/>  
 </p>
 
-<h2>🧪 What You'll Find Here</h2><p>
-  This is where I document my learning journey and keep track of the things I explore along the way.
-</p>
+🧪 What You'll Find Here
 
-<table>
-<tr>
-<td>🔹 Hands-on cybersecurity exercises</td>
-</tr>
-<tr>
-<td>🔹 Lab notes and documentation</td>
-</tr>
-<tr>
-<td>🔹 Tool exploration and experiments</td>
-</tr>
-<tr>
-<td>🔹 Screenshots and investigation results</td>
-</tr>
-<tr>
-<td>🔹 Commands, observations, and findings</td>
-</tr>
-<tr>
-<td>🔹 Troubleshooting and solutions</td>
-</tr>
-<tr>
-<td>🔹 Lessons learned from each practice</td>
-</tr>
-</table>
+<p>
+  This is where I document my learning journey and keep track of the things I explore along the way.
+</p><table>
+  <tr>
+    <th>Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🔹 Hands-on Cybersecurity Exercises</td>
+    <td>Practical activities and security exercises to develop my technical skills.</td>
+  </tr>
+  <tr>
+    <td>🔹 Lab Notes and Documentation</td>
+    <td>Notes, guides, and step-by-step documentation of what I learn.</td>
+  </tr>
+  <tr>
+    <td>🔹 Tool Exploration and Experiments</td>
+    <td>Exploring cybersecurity tools and learning how they work through practice.</td>
+  </tr>
+  <tr>
+    <td>🔹 Screenshots and Investigation Results</td>
+    <td>Visual evidence and results from my labs, experiments, and investigations.</td>
+  </tr>
+  <tr>
+    <td>🔹 Commands, Observations, and Findings</td>
+    <td>Useful commands, technical observations, and discoveries during practice.</td>
+  </tr>
+  <tr>
+    <td>🔹 Troubleshooting and Solutions</td>
+    <td>Problems I encounter, how I investigate them, and the solutions I discover.</td>
+  </tr>
+  <tr>
+    <td>🔹 Lessons Learned</td>
+    <td>Important takeaways and knowledge gained from each learning experience.</td>
+  </tr>
+</table><p>
+  Some experiments might work, others might not. Either way, there's always something to learn.
+</p>
 
 <p>
   Some experiments might work, others might not. Either way, there's always something to learn.
