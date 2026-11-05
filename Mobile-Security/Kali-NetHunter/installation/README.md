@@ -8,12 +8,36 @@
   A step-by-step reference for setting up Kali NetHunter on rooted and non-rooted Android devices.
 </p>---
 
-<h2 align="center">📋 Requirements</h2><h3>📱 Rooted Devices</h3>Requirements| Description
-Android Device| An Android smartphone with root access.
-Internet Connection| Wi-Fi or mobile data connection for downloading required files and packages.
-Storage| At least 3–5 GB of available storage is recommended. More may be required depending on the installation type.
-Magisk| Latest compatible version of Magisk for managing root access.
-Kali NetHunter Files| Compatible NetHunter installation ZIP package for your device architecture.
+<h2 align="center">📋 Requirements</h2>
+
+<h3>📱 Rooted Devices</h3>
+
+<table>
+  <tr>
+    <th>Requirements</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Android Device</td>
+    <td>An Android smartphone with root access.</td>
+  </tr>
+  <tr>
+    <td>Internet Connection</td>
+    <td>Wi-Fi or mobile data connection for downloading required files and packages.</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>At least 3–5 GB of available storage is recommended. More may be required depending on the installation type.</td>
+  </tr>
+  <tr>
+    <td>Magisk</td>
+    <td>Latest compatible version of Magisk for managing root access.</td>
+  </tr>
+  <tr>
+    <td>Kali NetHunter Files</td>
+    <td>Compatible NetHunter installation ZIP package for your device architecture.</td>
+  </tr>
+</table>
 
 Available Kali NetHunter packages:
 
