@@ -1,4 +1,4 @@
-<p align="center"> 👋 Hey there! </p>
+👋 Hey there!
 
 <p align="center">
   <img src="images/profile.png" width="150" height="150" alt="Profile"/>
@@ -10,25 +10,44 @@
   I'm currently learning cybersecurity and exploring different areas of IT. I'm still a beginner, but I enjoy learning new things, experimenting with tools, solving problems, and understanding how things work behind the scenes.
 </p>
 
-<h2 align="center">🔍 What I'm Learning</h2><p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,github" alt="Technology icons"/>
-</p>
-
-- 🐧 Linux and Kali Linux
-- 🌐 Networking Fundamentals
-- 📡 Wireshark and Packet Analysis
-- 🦠 Malware Traffic Analysis
-- 🔎 Nmap and Network Scanning
-- 🔐 Cybersecurity Fundamentals
-- 📱 Kali NetHunter and Mobile Security
-- ⚡ StrykerOSS and Android Security
-
+<h2 align="center">🔍 What I'm Learning</h2><table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></td>
+    <td>Linux and Kali Linux</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td>Networking Fundamentals</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></td>
+    <td>Wireshark and Packet Analysis</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Analysis-555555?style=flat-square&logo=virustotal&logoColor=white"/></td>
+    <td>Malware Traffic Analysis</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white"/></td>
+    <td>Nmap and Network Scanning</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Security-222222?style=flat-square&logo=letsencrypt&logoColor=white"/></td>
+    <td>Cybersecurity Fundamentals</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/NetHunter-557C94?style=flat-square&logo=kalilinux&logoColor=white"/></td>
+    <td>Kali NetHunter and Mobile Security</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></td>
+    <td>StrykerOSS and Android Security</td>
+  </tr>
+</table>
 
 <h2 align="center">🧪 What You'll Find Here</h2><p align="center">
   This is where I document my learning journey and keep track of the things I explore along the way.
-</p>
-
-- Hands-on cybersecurity exercises
+</p>- Hands-on cybersecurity exercises
 - Lab notes and documentation
 - Tool exploration and experiments
 - Screenshots and investigation results
