@@ -1,4 +1,4 @@
-👋 Hey there!
+<h2 align=center>👋 Hey there!</h2>
 
 <p align="center">
   <img src="images/profile.png" width="150" height="150" alt="Profile"/>
@@ -11,6 +11,7 @@
 </p>
 
 <h2>🔍 What I'm Learning</h2><p>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Linux%20%26%20Kali-333333?style=flat-square"/>
   <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white"/><img src="https://img.shields.io/badge/Networking%20Fundamentals-333333?style=flat-square"/>
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/><img src="https://img.shields.io/badge/Network%20Scanning-333333?style=flat-square"/>
   <img src="https://img.shields.io/badge/Security-222222?style=flat-square"/><img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-333333?style=flat-square"/>
   <img src="https://img.shields.io/badge/Kali%20NetHunter-557C94?style=flat-square&logo=kalilinux&logoColor=white"/><img src="https://img.shields.io/badge/Mobile%20Security-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/StrykerOSS%20%26%20Android-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/StrykerOSS%20%26%20Android-333333?style=flat-square"/>  
 </p>
 
 <h2>🧪 What You'll Find Here</h2><p>
@@ -55,9 +56,11 @@
 </p>
 
 <h2>🎯 My Goal</h2>
+
 <p>
   To keep improving my technical skills, gain hands-on experience, and hopefully turn my interest in technology and cybersecurity into a career someday.
 </p>
+
 <p>
   I'm taking things one step at a time, learning through practice, and building my knowledge along the way.
 </p>
