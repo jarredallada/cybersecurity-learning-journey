@@ -26,7 +26,7 @@
   This is where I document my learning journey and keep track of the things I explore along the way.
 </p>
 
-<table align="center">
+<table>
   <tr>
     <td>🔹 Hands-on cybersecurity exercises</td>
     <td>🔹 Lab notes and documentation</td>
@@ -40,7 +40,7 @@
     <td>🔹 Troubleshooting and solutions</td>
   </tr>
   <tr>
-    <td colspan="2" align="center">🔹 Lessons learned from each practice</td>
+    <td>🔹 Lessons learned from each practice</td>
   </tr>
 </table>
 
