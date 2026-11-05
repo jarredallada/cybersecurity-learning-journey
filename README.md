@@ -33,31 +33,31 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>🔹 Hands-on Cybersecurity Exercises</td>
+    <td>• Hands-on Cybersecurity Exercises</td>
     <td>Practical activities and security exercises to develop my technical skills.</td>
   </tr>
   <tr>
-    <td>🔹 Lab Notes and Documentation</td>
+    <td>• Lab Notes and Documentation</td>
     <td>Notes, guides, and step-by-step documentation of what I learn.</td>
   </tr>
   <tr>
-    <td>🔹 Tool Exploration and Experiments</td>
+    <td>• Tool Exploration and Experiments</td>
     <td>Exploring cybersecurity tools and learning how they work through practice.</td>
   </tr>
   <tr>
-    <td>🔹 Screenshots and Investigation Results</td>
+    <td>• Screenshots and Investigation Results</td>
     <td>Visual evidence and results from my labs, experiments, and investigations.</td>
   </tr>
   <tr>
-    <td>🔹 Commands, Observations, and Findings</td>
+    <td>• Commands, Observations, and Findings</td>
     <td>Useful commands, technical observations, and discoveries during practice.</td>
   </tr>
   <tr>
-    <td>🔹 Troubleshooting and Solutions</td>
+    <td>• Troubleshooting and Solutions</td>
     <td>Problems I encounter, how I investigate them, and the solutions I discover.</td>
   </tr>
   <tr>
-    <td>🔹 Lessons Learned</td>
+    <td>• Lessons Learned</td>
     <td>Important takeaways and knowledge gained from each learning experience.</td>
   </tr>
 </table><p>
