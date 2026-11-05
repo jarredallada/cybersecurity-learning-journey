@@ -5,9 +5,10 @@
 </p><p align="center">
   A step-by-step reference for setting up Kali NetHunter on rooted and non-rooted Android devices.
 </p>
+
 ---
 
-<h2 align="center">📋 Requirements</h2>
+<h2>📋 Requirements</h2>
 
 <h3>📱 Rooted Devices</h3>
 
