@@ -76,13 +76,6 @@
   I'm taking things one step at a time, learning through practice, and building my knowledge along the way.
 </p>
 
-<h2>📌 A Little Reminder</h2><p>
-  <i>"You don't have to know everything to get started. You just have to be willing to learn."</i>
-</p>
-<p>
-  <strong>Still learning, still exploring, and always curious.</strong>
-</p>
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
