@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="120" alt="Kali Linux Logo"/>
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="150" alt="Kali Linux Logo"/>
 </p><p align="center">
   <strong>Installing Kali NetHunter on Android Devices</strong>
 </p><p align="center">
