@@ -85,6 +85,17 @@
   <strong>Still learning, still exploring, and always curious. 🚀</strong>
 </p>
 
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 <p align="center">
   <sub>📌 This repository is a personal learning space. Everything here reflects my own practice, experiments, and progress.</sub>
 </p>
