@@ -88,32 +88,12 @@
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  
-  <a href="https://www.facebook.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.instagram.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.threads.net/@YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/>
-  
-  </a>
-  <a href="https://m.me/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Messenger-0866FF?style=flat-square&logo=messenger&logoColor=white"/>
-  </a>
-  
-  <a href="https://t.me/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME">
+   
+  <a href="https://www.linkedin.com/in/jarred-allada-717b753ba?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:jarallada@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   
